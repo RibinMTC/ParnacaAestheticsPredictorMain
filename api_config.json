@@ -1,0 +1,5 @@
+{
+    "port": 5005, 
+    "predictorClassName": "ParnacaAADBModel", 
+    "predictorModulePath": "src.parnaca_prediction.parnaca_aadb_model"
+}
